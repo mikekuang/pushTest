@@ -5,3 +5,5 @@ add test
 add a new branch
 
 create a new branch is quick
+
+test fast forward
