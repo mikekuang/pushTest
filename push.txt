@@ -8,3 +8,4 @@ create a new branch is quick
 
 test fast forward
 local add
+add another line
